@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Sandesh S\AndroidStudioProjects\FeedYou\app\libs\PPNS-1.10.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7052bca087448e367c6a5745e07eb3994b0ff084">
+        <dex dex="C:\Users\Sandesh S\AndroidStudioProjects\FeedYou\app\build\intermediates\pre-dexed\debug\PPNS-1.10.2-cf78fa209ba61f344f81b541d4a9a8dd2ad8c17a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sandesh S\AndroidStudioProjects\FeedYou\app\libs\ParseFacebookUtilsV3-1.10.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4e4b32b1d1c9908ff2343182145f72c4aa48f97a">
+        <dex dex="C:\Users\Sandesh S\AndroidStudioProjects\FeedYou\app\build\intermediates\pre-dexed\debug\ParseFacebookUtilsV3-1.10.2-2dce7d71df38aa6ac8ad6a8a8eaa359bfe60745e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sandesh S\AndroidStudioProjects\FeedYou\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Sandesh S\AndroidStudioProjects\FeedYou\app\build\intermediates\pre-dexed\release\internal_impl-23.0.1-2c25d56fe63ac14eb8fdd51b758c1f8e815efa6d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sandesh S\AndroidStudioProjects\FeedYou\app\libs\ParseFacebookUtilsV4-1.10.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d8af02f154ae32c7a97ae56fcd119cc174f87707">
+        <dex dex="C:\Users\Sandesh S\AndroidStudioProjects\FeedYou\app\build\intermediates\pre-dexed\debug\ParseFacebookUtilsV4-1.10.2-f6265b39d3cbd7b79bad7392a780aa7042c7921b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sandesh S\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="C:\Users\Sandesh S\AndroidStudioProjects\FeedYou\app\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-4792176b95a71593846d2cb507ee63742bc5b837.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sandesh S\AndroidStudioProjects\FeedYou\app\libs\ParseCrashReporting-1.10.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ab2c11532ed8402ac1d72c4dff430e3488d79d8a">
+        <dex dex="C:\Users\Sandesh S\AndroidStudioProjects\FeedYou\app\build\intermediates\pre-dexed\debug\ParseCrashReporting-1.10.2-4b1a1885307c4e381caf983e89fcd1c634ef54a3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sandesh S\AndroidStudioProjects\FeedYou\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Sandesh S\AndroidStudioProjects\FeedYou\app\build\intermediates\pre-dexed\release\classes-e090f35420669a172a688a36989056d1b6edf527.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sandesh S\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Sandesh S\AndroidStudioProjects\FeedYou\app\build\intermediates\pre-dexed\release\support-annotations-23.0.1-bdab4c55b8da1747c2861b20b3421e78d040685c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sandesh S\AndroidStudioProjects\FeedYou\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Sandesh S\AndroidStudioProjects\FeedYou\app\build\intermediates\pre-dexed\release\classes-3e7511dca36ffe141c1e69139723b28da3b1f92c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sandesh S\AndroidStudioProjects\FeedYou\app\libs\Parse-1.10.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a859414011ce2c18187acc83319688e6bd340635">
+        <dex dex="C:\Users\Sandesh S\AndroidStudioProjects\FeedYou\app\build\intermediates\pre-dexed\debug\Parse-1.10.2-38dd39195ac666fd4b1c2aef7284d9e0873a7b93.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sandesh S\AndroidStudioProjects\FeedYou\app\libs\ParseTwitterUtils-1.10.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cf6d8bbff1c930ee81e4e79c4d66e89fa2ec2b5d">
+        <dex dex="C:\Users\Sandesh S\AndroidStudioProjects\FeedYou\app\build\intermediates\pre-dexed\debug\ParseTwitterUtils-1.10.2-5dab409c69a1336c8f1a9e8ec3b66fd0bcc501bc.jar" />
+    </item>
+
+</items>

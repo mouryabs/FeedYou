@@ -1,0 +1,50 @@
+-injars 'C:\Users\mourya\Desktop\FeedYou\app\build\intermediates\multi-dex\debug\allclasses.jar'
+-outjars 'C:\Users\mourya\Desktop\FeedYou\app\build\intermediates\multi-dex\debug\componentClasses.jar'
+
+-libraryjars 'C:\Users\mourya\AppData\Local\Android\sdk1\build-tools\23.0.1\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontpreverify
+-dontwarn
+-printconfiguration 'C:\Users\mourya\Desktop\FeedYou\app\build\intermediates\multi-dex\debug\components.flags'
+
+
+-keep class null {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep class com.example.sandeshs.feedyou.SecondPage {
+    <init>();
+}
+
+-keep class com.example.sandeshs.feedyou.DONreg {
+    <init>();
+}
+
+-keep class com.example.sandeshs.feedyou.NGOreg {
+    <init>();
+}
+
+-keep class com.example.sandeshs.feedyou.ListPage {
+    <init>();
+}
+
+-keep class com.example.sandeshs.feedyou.FirstPage {
+    <init>();
+}
+
+-keep class com.example.sandeshs.feedyou.Confirm {
+    <init>();
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}

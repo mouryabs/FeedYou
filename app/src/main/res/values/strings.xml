@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FeedYou</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main22">Main22Activity</string>
+    <string name="title_activity_main23">Main23Activity</string>
+    <string name="title_activity_main24">Main24Activity</string>
+    <string name="title_activity_main25">Main25Activity</string>
+    <string name="title_activity_first_page">FirstPage</string>
+    <string name="title_activity_receiverpage">receiverpage</string>
+    <string name="title_activity_confirm">Confirm</string>
+</resources>
